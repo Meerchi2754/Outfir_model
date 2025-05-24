@@ -47,3 +47,9 @@ Here, is the accuracy graph and Epoch:
 
 Here, is the visualization of Model:
 ![Image](https://github.com/user-attachments/assets/d430bce6-28bb-4af9-9fef-a79f8a7b33ea)
+
+
+Reference:
+-Dataset: ![Link](https://skintone.google/mste-dataset)
+
+

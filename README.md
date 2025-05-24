@@ -50,6 +50,6 @@ Here, is the visualization of Model:
 
 
 Reference:
--Dataset: ![Link](https://skintone.google/mste-dataset)
+-Dataset: (https://skintone.google/mste-dataset)
 
 
